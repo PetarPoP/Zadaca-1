@@ -1,0 +1,78 @@
+<html>
+<!doctype html>
+<html lang="hr">
+<head>
+	<title>Zadaca 1</title>
+</head>
+<body>
+	<ol>
+		<li>Ena</li>
+		<li>Moja prva ljubav</li>
+		<li>Šejn</li>
+		<li>Šal od svile</li>
+		<li>Uzalud pitaš</li>
+	</ol>
+	<ul>
+		<li>Baby</li>
+		<li>Idol</li>
+		<li>Fake love</li>
+		<li>Spring day</li>
+		<li>Go go</li>
+	</ul>
+	<p>
+		Ja svoje loše dane
+		Volim gristi sam
+		Piti i lutati po krčmama
+		Al' često stignem samo
+		Do njenog pogleda
+		Ena je divna žena
+		Ena dobro zna
+		Da takvi dani svrše s gužvama
+		Zato me zove k sebi
+		Da bi mi pomogla
+		Ja Ena nisam tvoj sin
+		Zapamti to
+		To možeš raditi s njim
+		Za mene je već kasno
+		Znam da bi Ena htjela
+		Da sam stalno njen
+		Valjda jer tako često nestanem
+		Ona me uvijek ima u
+		Svojim mislima
+		A kad joj želim reći
+		Da je bolji kraj
+		Od naših bjegova i zasjeda
+		Ena me samo gleda
+		I kaže ne, ne, ne
+		I ne idi bez kaputa
+		Pogledaj sve je bijelo
+		Zima je
+		Ja Ena nisam tvoj sin
+		Zapamti to
+		To možeš raditi s njim
+		Za mene je već kasno
+		Prošlo je dugo vrijeme
+		I daleki bijeg
+		I mada nemam čak ni imena
+		Ja često sretnem Enu
+		U svojim snovima
+		Kad svoje loše dane
+		Ovdje grizem sam
+		I sretnem putnike po krčmama
+		Ja pitam da l' je znaju
+		I je li ponosna
+		Kažu da još je lijepa
+		I da ima stav
+		Al' često čak i kad je vesela
+		Opaze plavu sjenu
+		U crnim očima
+		Ja Ena nisam tvoj sin
+		Zapamti to
+		To možeš raditi s njim
+		Za mene je već kasno
+		Do mene nema puta
+		Pogledaj sve je bijelo
+		Zima je
+	</p>
+</body>
+</html>
