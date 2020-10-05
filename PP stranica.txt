@@ -5,6 +5,7 @@
 	<title>Zadaca 1</title>
 </head>
 <body>
+        <h1>Najdraze pjesme</h1>
 	<ol>
 		<li>Ena</li>
 		<li>Moja prva ljubav</li>
@@ -12,6 +13,7 @@
 		<li>Šal od svile</li>
 		<li>Uzalud pitaš</li>
 	</ol>
+        <h1>Najgore pjesme</h1>
 	<ul>
 		<li>Baby</li>
 		<li>Idol</li>
@@ -19,6 +21,7 @@
 		<li>Spring day</li>
 		<li>Go go</li>
 	</ul>
+        <h1>Tekst</h1>
 	<p>
 		Ja svoje loše dane
 		Volim gristi sam
